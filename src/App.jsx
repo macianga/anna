@@ -21,11 +21,6 @@ function App() {
     alert(name);
   }
 
-
-  // useEffect(()=>{
-  //     setCount(98);
-  // }, [])
-
   return (
     <div className="App">
       <form>
